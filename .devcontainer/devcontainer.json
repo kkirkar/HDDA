@@ -1,0 +1,5 @@
+{
+    "name": "R Environment",
+    "dockerFile": "Dockerfile",
+    "extensions": ["ikuyadeu.r"]
+}
