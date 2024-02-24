@@ -1,5 +1,11 @@
 {
     "name": "R Environment",
     "dockerFile": "Dockerfile",
-    "extensions": ["ikuyadeu.r"]
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Ikuyadeu.r-pack"
+            ]
+        }
+    }
 }
